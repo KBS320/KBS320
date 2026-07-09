@@ -19,7 +19,7 @@ Built SIEM dashboards in Splunk and QRadar, managed cloud security posture with 
 
 ## 🔨 Featured Projects
 
-**[SOC Home Lab](https://github.com/KBS320/SOC-Home-Lab)** — Personal detection-engineering lab: 30 MITRE ATT&CK techniques attacked with Atomic Red Team and detected in Splunk with custom SPL queries, each with a full writeup.
+**[SOC Home Lab](https://github.com/KBS320/SOC-Home-Lab)** — Personal detection-engineering lab: 30 MITRE ATT&CK techniques in Splunk with custom SPL, plus a second Wazuh/Suricata/ELK SIEM-NIDS-HIDS deployment with a verified live detection pipeline. Full writeup for every technique.
 
 **[SOC Triage Assistant](https://github.com/KBS320/soc-triage-assistant)** — AI-powered alert triage tool that enriches indicators via VirusTotal and summarizes alerts using an LLM.
 
