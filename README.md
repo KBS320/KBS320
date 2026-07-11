@@ -42,7 +42,6 @@ Built SIEM dashboards in Splunk and QRadar, managed cloud security posture with 
 
 ## 🎓 Certifications
 
-- CompTIA Security+ ✅
 - CompTIA CySA+ ✅
 
 ---
