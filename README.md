@@ -1,4 +1,4 @@
-# Hi, I'm Khaled Saifullah 👋
+# Hi, I'm Khaled Bin Saifullah 👋
 
 Detection Engineer & SOC Analyst — 8+ years securing healthcare, banking, and fintech systems. I build SIEM detections, lead vulnerability management programs, and automate incident response.
 
